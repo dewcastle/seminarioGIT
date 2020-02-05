@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 prima riga
 
 aggiungo linea in più 
 
-va beneeeee
+va bene
+=======
+prima riga 
+
+aggiungo linea in più
+
+va bene 
+>>>>> linda
